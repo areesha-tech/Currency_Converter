@@ -103,7 +103,7 @@ setCountries(currency_code);
           }
          
           </div>
-          <div className={styles.image} onClick={swipe}><img src="public/images/conversion.png"></img></div>
+          <div className={styles.image} onClick={swipe}><img src="/images/conversion.png"></img></div>
           <div className={styles.box}>
           <div className={styles.select}>
             <p>{currency.currency2}</p>
