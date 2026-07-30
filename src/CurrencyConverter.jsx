@@ -107,7 +107,7 @@ setCountries(currency_code);
           <div className={styles.box}>
           <div className={styles.select}>
             <p>{currency.currency2}</p>
-            <img onClick={()=>Toggle("toggle2","toggle1")} src="public/images/dropdown.svg"></img>
+            <img onClick={()=>Toggle("toggle2","toggle1")} src="/images/dropdown.svg"></img>
           </div>
           {
             toggle.toggle2 && 
