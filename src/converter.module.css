@@ -179,6 +179,7 @@ body{
 }
     .parent{
     height:60vh;
+    justify-content: space-between;
     }
 .select{
     width: 120px;
